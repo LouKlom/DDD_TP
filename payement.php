@@ -1,0 +1,17 @@
+<?php
+
+public class payement
+{
+	
+
+
+	
+}
+
+
+
+
+
+
+
+?>
