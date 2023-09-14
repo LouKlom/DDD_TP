@@ -1,0 +1,39 @@
+USER
+	- Nom
+	- ID
+	- Compte
+	- 
+
+
+
+MOVIE
+	- ID
+	- Name
+	- Lenght
+	- Cast
+	- Note
+	- Type
+	- 
+
+
+
+
+SERIE
+	- ID
+	- Name
+	- Lenght
+	- Cast
+	- Note
+	- Type
+	- EpNumber
+	- SaisonNumber
+	-  
+
+
+PAYEMENT
+	- ID
+	- Id_user
+	- ID_payement
+	- checkpayement
+	- date ???
+	- Prix ??? -> vient de l'abo ?

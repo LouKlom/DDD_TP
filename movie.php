@@ -14,9 +14,10 @@ public class movie
 	public $movieProductor;
 	public $movieLangage[];
 	public $movieSubtitles[];
+	public $movieType[];
 
 	
-	
+
 
 	public function displayMovieName()
 	{
@@ -48,7 +49,10 @@ public class movie
 		print_r($this->movieLangage);
 	}
 
-
+	public function displayMovieType()
+	{
+		print_r($this->movieType);
+	}
 
 }
 

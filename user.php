@@ -5,8 +5,8 @@ public class user
 	
 	// -------------------------------
 	private $userId;
-	private $userPassword
-	private $userEmail
+	private $userPassword;
+	private $userEmail;
 	private $userAdress;
 	// -------------------------------
 
@@ -14,10 +14,17 @@ public class user
 	public $userTypeCompte;
 
 
+	public function connexionUser()
+	{
 
+	}
 
+	public function setUserEmail($email)
+	{
+		$this->userEmail = $email;
+	}
 
-
+	
 
 }
 
